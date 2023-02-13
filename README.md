@@ -1,16 +1,12 @@
-# **Alexia Cecilia**
+### **¡Hola, soy  _Alexia Espinosa!_**
+![](AlexiaEsp.png)
 
-<!--
-**AlexiaEsp/AlexiaEsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estudio en la **Preparatoria Federal Lázaro Cárdenas**.
+- 🌱 Estoy aprendiendo todo lo relacionado a __programación y mantenimiento de hardware y software__.
+- 👯 Mi meta es lograr graduarme con una carrera relacionada a **TICS**.
+- 🤔 Actualmente me encuentro en 4to semestre.
+- 💬Me llamo Alexia pero pueden decirme **Ale**.
+- 📫Espero aprender muchas cosas este semestre
+- 😄 y con ayuda de GitHub sé que lo voy a lograr
+- ⚡Dato curioso: La mayoría de estudiantes está de acuerdo en que **TICS** es una mala capacitación pero __¡es todo lo contrario!__
