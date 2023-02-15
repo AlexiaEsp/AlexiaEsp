@@ -1,5 +1,5 @@
 ### **¡Hola, soy  _Alexia Espinosa!_**
-![](https://p82.cooltext.com/Rendered/Cool%20Text%20-%20AlexiaEsp%20429585971991664.png)
+![](https://user-images.githubusercontent.com/113717920/219146277-c38187b0-0e3c-4ca5-9af5-c1731b2719b7.png)
 
 
 - 🔭 Actualmente estudio en la **Preparatoria Federal Lázaro Cárdenas**.
